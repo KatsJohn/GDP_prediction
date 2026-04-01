@@ -1,6 +1,6 @@
-# Global GDP Insights — ML + Data Analysis Project
+# GDP Forecasting using Machine Learning - Implementation with Python  
 
-This repository contains a Jupyter Notebook that explores and solves a **time series forecasting problem** focused on **predicting GDP** for selected countries using historical economic data.
+This repository contains a Jupyter Notebook that explores and solves a **time series forecasting problem** focused on **predicting GDP evolution** for selected countries and geographic regions using historical economic data.
 
 The project walks through the complete data science workflow: data loading, exploratory data analysis (EDA), preprocessing, model training, hyperparameter optimization, and evaluation using multiple machine learning and statistical forecasting algorithms.
 
@@ -8,7 +8,7 @@ The project walks through the complete data science workflow: data loading, expl
 
 ## Project Overview
 
-Gross Domestic Product (GDP) is one of the most widely used indicators of a country's economic health. Accurately forecasting GDP trends can help policymakers, analysts, and researchers make informed decisions. In this project, multiple forecasting models are trained and compared to predict the GDP of selected countries using nominal GDP data spanning from 1960 to 2023.
+Gross Domestic Product (GDP) is one of the most widely used indicators of a country's economic health. Accurate forecasting of GDP trends can help policymakers, analysts, and researchers make informed decisions. In this project, multiple forecasting models are trained and compared to predict the GDP of selected countries using nominal GDP data spanning from 1960 to 2023.
 
 The notebook is designed to be educational and practical, combining economic reasoning, visualization, and hands-on model implementation. It also merges GDP data with population data to compute per-capita metrics, offering a more nuanced perspective on economic performance.
 

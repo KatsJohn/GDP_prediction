@@ -8,7 +8,7 @@ The project walks through the complete data science workflow: data loading, expl
 
 ## Project Overview
 
-Gross Domestic Product (GDP) is one of the most widely used indicators of a country's economic health. Accurate forecasting of GDP trends can help policymakers, analysts, and researchers make informed decisions. In this project, multiple forecasting models are trained and compared to predict the GDP of selected countries using nominal GDP data spanning from 1960 to 2023.
+Gross Domestic Product (GDP) is one of the most widely used indicators of a country's economic health. Accurate forecasting of GDP trends can help policymakers, analysts, and researchers make informed decisions. In this project, we trained several Machine Learning models (e.g., Polynomial Regression, ARIMA, Prophet, LSTM) to predict the GDP of selected countries and geographic regions using historical data of 40+ years.
 
 The notebook is designed to be educational and practical, combining economic reasoning, visualization, and hands-on model implementation. It also merges GDP data with population data to compute per-capita metrics, offering a more nuanced perspective on economic performance.
 
